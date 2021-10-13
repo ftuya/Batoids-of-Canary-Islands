@@ -1,0 +1,13 @@
+Group	Habitat	Proportion
+Western	Reef	100
+Western	Sandy beds	0
+Western	Fish Farms	0
+Western	Seagrass meadows	0
+Eastern 	Reef	91
+Eastern 	Sandy beds	9
+Eastern 	Fish Farms	0
+Eastern 	Seagrass meadows	0
+Central	Reef	20
+Central	Sandy beds	6
+Central	Fish Farms	60
+Central	Seagrass meadows	14
